@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ClevvGarde</title>
-    <link>http://example.org/</link>
+    <link>https://clevvgarde.github.io/</link>
     <description>Recent content on ClevvGarde</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>dco@runningstream.net (RunningStream)</managingEditor>
-    <webMaster>dco@runningstream.net (RunningStream)</webMaster>
+    <managingEditor>contact@clevvgarde.com (ClevvGarde)</managingEditor>
+    <webMaster>contact@clevvgarde.com (ClevvGarde)</webMaster>
     <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://clevvgarde.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
